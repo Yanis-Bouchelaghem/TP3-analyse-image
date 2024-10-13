@@ -12,3 +12,6 @@ venv/
 
 # dataset
 dataset/
+
+#model
+*.pt
